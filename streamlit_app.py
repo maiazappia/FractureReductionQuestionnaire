@@ -213,11 +213,6 @@ def show_likert():
                     "likert_value": likert_val,
                 }
 
-            # show debug in-app and server log
-            st.markdown("### DEBUG: session_state snapshot (will be saved)")
-            st.json(snapshot)
-            print("DEBUG: submission snapshot:", snapshot)
-
             # validate likerts present
             if any(v["likert_value"] is None for v in snapshot.values()):
                 st.session_state.error = "Please complete all Likert ratings."
