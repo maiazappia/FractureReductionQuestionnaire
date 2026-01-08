@@ -1,0 +1,6 @@
+submission_id,timestamp_utc,parameter_label,rank,points,likert
+44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Time taken (total procedure),1,0.0,4
+44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Accuracy of fragment positioning (translational error vs reference),1,0.0,6
+44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Accuracy of fragment rotation (rotational error vs reference),1,0.0,3
+44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Number of moves (how many fragment manipulations),1,0.0,1
+44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Order of fragment movements (efficient sequencing),1,0.0,3
