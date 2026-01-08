@@ -4,3 +4,38 @@ submission_id,timestamp_utc,parameter_label,rank,points,likert
 44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Accuracy of fragment rotation (rotational error vs reference),1,0.0,3
 44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Number of moves (how many fragment manipulations),1,0.0,1
 44859e6e-0df1-4798-aabe-c8ab4d1ccdc0,2026-01-08T13:41:51.626429,Order of fragment movements (efficient sequencing),1,0.0,3
+565f70ff-6510-460a-97ca-8735f79dad7b,2026-01-08T14:09:55.663752Z,Time taken (total procedure),1,0,4
+565f70ff-6510-460a-97ca-8735f79dad7b,2026-01-08T14:09:55.663752Z,Accuracy of fragment positioning (translational error vs reference),1,0,6
+565f70ff-6510-460a-97ca-8735f79dad7b,2026-01-08T14:09:55.663752Z,Accuracy of fragment rotation (rotational error vs reference),1,0,5
+565f70ff-6510-460a-97ca-8735f79dad7b,2026-01-08T14:09:55.663752Z,Number of moves (how many fragment manipulations),1,0,2
+565f70ff-6510-460a-97ca-8735f79dad7b,2026-01-08T14:09:55.663752Z,Order of fragment movements (efficient sequencing),1,0,3
+f048f68f-5119-4800-b031-2ebe25d30af9,2026-01-08T14:17:10.387909Z,Time taken (total procedure),1,0,1
+f048f68f-5119-4800-b031-2ebe25d30af9,2026-01-08T14:17:10.387909Z,Accuracy of fragment positioning (translational error vs reference),1,0,2
+f048f68f-5119-4800-b031-2ebe25d30af9,2026-01-08T14:17:10.387909Z,Accuracy of fragment rotation (rotational error vs reference),1,0,5
+f048f68f-5119-4800-b031-2ebe25d30af9,2026-01-08T14:17:10.387909Z,Number of moves (how many fragment manipulations),1,0,5
+f048f68f-5119-4800-b031-2ebe25d30af9,2026-01-08T14:17:10.387909Z,Order of fragment movements (efficient sequencing),1,0,3
+e5ee0ddf-c88c-45d6-9728-3e506951fb67,2026-01-08T14:20:18.541409Z,Time taken (total procedure),1,0,4
+e5ee0ddf-c88c-45d6-9728-3e506951fb67,2026-01-08T14:20:18.541409Z,Accuracy of fragment positioning (translational error vs reference),1,0,5
+e5ee0ddf-c88c-45d6-9728-3e506951fb67,2026-01-08T14:20:18.541409Z,Accuracy of fragment rotation (rotational error vs reference),1,0,3
+e5ee0ddf-c88c-45d6-9728-3e506951fb67,2026-01-08T14:20:18.541409Z,Number of moves (how many fragment manipulations),1,0,3
+e5ee0ddf-c88c-45d6-9728-3e506951fb67,2026-01-08T14:20:18.541409Z,Order of fragment movements (efficient sequencing),1,0,6
+1198f392-6049-4895-a35b-2f7bbece28bb,2026-01-08T14:31:32.233464Z,Time taken (total procedure),1,0,1
+1198f392-6049-4895-a35b-2f7bbece28bb,2026-01-08T14:31:32.233464Z,Accuracy of fragment positioning (translational error vs reference),1,0,2
+1198f392-6049-4895-a35b-2f7bbece28bb,2026-01-08T14:31:32.233464Z,Accuracy of fragment rotation (rotational error vs reference),1,0,6
+1198f392-6049-4895-a35b-2f7bbece28bb,2026-01-08T14:31:32.233464Z,Number of moves (how many fragment manipulations),1,0,6
+1198f392-6049-4895-a35b-2f7bbece28bb,2026-01-08T14:31:32.233464Z,Order of fragment movements (efficient sequencing),1,0,3
+2d9de0e1-7802-441a-a14e-e043d5bafc90,2026-01-08T14:36:11.477804Z,Time taken (total procedure),1,0,5
+2d9de0e1-7802-441a-a14e-e043d5bafc90,2026-01-08T14:36:11.477804Z,Accuracy of fragment positioning (translational error vs reference),1,0,3
+2d9de0e1-7802-441a-a14e-e043d5bafc90,2026-01-08T14:36:11.477804Z,Accuracy of fragment rotation (rotational error vs reference),1,0,4
+2d9de0e1-7802-441a-a14e-e043d5bafc90,2026-01-08T14:36:11.477804Z,Number of moves (how many fragment manipulations),1,0,6
+2d9de0e1-7802-441a-a14e-e043d5bafc90,2026-01-08T14:36:11.477804Z,Order of fragment movements (efficient sequencing),1,0,2
+ba6a76ed-6ace-4a77-9e0a-3a7ab874b3ee,2026-01-08T14:38:35.531375Z,Time taken (total procedure),1,0,7
+ba6a76ed-6ace-4a77-9e0a-3a7ab874b3ee,2026-01-08T14:38:35.531375Z,Accuracy of fragment positioning (translational error vs reference),1,0,7
+ba6a76ed-6ace-4a77-9e0a-3a7ab874b3ee,2026-01-08T14:38:35.531375Z,Accuracy of fragment rotation (rotational error vs reference),1,0,7
+ba6a76ed-6ace-4a77-9e0a-3a7ab874b3ee,2026-01-08T14:38:35.531375Z,Number of moves (how many fragment manipulations),1,0,7
+ba6a76ed-6ace-4a77-9e0a-3a7ab874b3ee,2026-01-08T14:38:35.531375Z,Order of fragment movements (efficient sequencing),1,0,7
+283aff96-0a34-477f-a38d-46919182f502,2026-01-08T14:42:32.417425Z,Time taken (total procedure),1,10,7
+283aff96-0a34-477f-a38d-46919182f502,2026-01-08T14:42:32.417425Z,Accuracy of fragment positioning (translational error vs reference),3,20,1
+283aff96-0a34-477f-a38d-46919182f502,2026-01-08T14:42:32.417425Z,Accuracy of fragment rotation (rotational error vs reference),2,20,3
+283aff96-0a34-477f-a38d-46919182f502,2026-01-08T14:42:32.417425Z,Number of moves (how many fragment manipulations),5,40,4
+283aff96-0a34-477f-a38d-46919182f502,2026-01-08T14:42:32.417425Z,Order of fragment movements (efficient sequencing),4,10,6
